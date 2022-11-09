@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iron-cycle-367306",
+  "private_key_id": "3dd8043b2b0e0fefae3cfe16a510cfa6d30f96f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXIODV/J4WS8Yx\nQLNqoeoqA94CThW3BwBN9c/GMYsgbDN7blYfGO0ua9vdngFgSB8PoAUWKSew8tZW\nfVVyt88IosqMNrPF3z27VMjvpwl3inMQDqOtjZ1RhQkM5NZefLJQA3pX2NUerY9C\nQV5IIPrRIxJRLqhjAt+dVmWv0Oypz4dYFapyg2HscNMxG2hY9SJ/V0oKXNZOeHxD\nxVEmHWXGT9Us7ekO1oFSQgGtWv2UaevyR1mOm+EwhXgImincKIkJtoaGrxNvQIPA\n06u1hRyPMtJac08M4rpCcTUq4BvN13IkUPIRaBCs9RUv9l+NCsWXzQJd4NFKB7GK\nGEYdoRmBAgMBAAECggEADhENXF2LCWA8LlFrYb14YjjB7Uz/UG3iZV8/25646Gep\n0w9ODM7xJKT9bf9K+X89BONMFef2vc2cjahUz7y0FIWyfKKK0RwaTtlxan0NsIa+\ndvwl1/2aawAK+5xBJ8JLho8MUCjqjVRyRSR4dhY7wkOVbOD+41hdH/PuuxKjNJrr\nzC3CacnvZA590MiUuSW5qYJLcxmL2PVoYk8FcSAKmyhtu79INv3TWcwYGOPcBbMv\nQCQ5Ds/hBZYM6YYYVVQfVLjujVCqIkf3n0Fyd/zCpmmwpWr6hazWcvwnnqB/Q1FE\nVkXIfjQbfIgqu2FgXPWkbVUlq/1myWbM6pIW5JpXkQKBgQDF1HQ9cM/hF4HXUYE+\ndgnlC9Ucg8AWgi0WgVnV/zZ4CZZIWZ5FlemAEr7r7IAXay8Jnd1/VdDkgELASfMk\nKgo1RovtcySiZzEbXGVMKiAxycZO7iCTMMiuWsvDUyo+y9nekfzuzW+edmOjiaaa\nAzILrYQJtzz9udXMMN5KiZbMOwKBgQDDkP6m8LtX9L/m65aTPEpNxEFXGUmyxFod\nFYo2Jtb+DdiRhLSyfDKSeHFhFcxsjv3oZru420Aqn4M+DsR9PhoaUNYwvEgoDYL9\nUxiFFkEM4h18k/S60ztHgXkEnHKi7tTMf5sStcKoPXcektWS6XKakRSjU2p3dBgd\nW/RBd3NhcwKBgGUoxmfEkAgh5RsdamFuKpEdA9SY6liYKEYhzrZG0qt++4HzkaMz\njTsYWth5DubqwBrCxsieMTsm+vso1VPgy2eCs3qwLkN9UPcUwBe6UswiyW0DB1U8\n1OGTPC6dEDUcOEQ/kn7qPfFhyIGPmcmXaLff+mydbmqv5EuNkZ27zYiRAoGACVAx\nYF/cfB7SuLuFazOW0kdDWVOB9/pz1Ci/cT6+RFECfEOWm11gxyrnM1lnZ9ATdWrX\nC8GdN6prBJyNbO11LsWkvaNpyEaEc23un//kTynBf7pIEFGY5BndWoPczbeT+L0m\n9Gglgf+TWahidWGarJO2KOUDD/c+Yr+LTUbT/tMCgYA2aOhJZedqNHUJC0mqpyMj\nNgP3ms2hcGof4H/SE8KSdjj6FV90URz5ORTBMSvB/Iw1c/5NG9Gd9Q8qFAmIZPoy\nqrIkJKI3mvQqR14Ui7NvRUWSkRjOgF7y/S3pgF5tI+jF0EE7dRvsRGk2jcnLEpHw\n1q1i5EC3pgrptj/yQoUcMg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aistockpriceprediction@iron-cycle-367306.iam.gserviceaccount.com",
+  "client_id": "104068608886997185733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aistockpriceprediction%40iron-cycle-367306.iam.gserviceaccount.com"
+}
